@@ -1,4 +1,4 @@
-# go.mcp-wrapper
+# go.model-orchestrator
 
 A modular Go implementation of a Model Context Protocol (MCP) environment designed to orchestrate multiple agent wrappers and tool servers while presenting a single OpenAI-compatible API to clients such as AnythingLLM. The project consists of three cooperating binaries:
 
